@@ -1,0 +1,4 @@
+# Create a ship that has torpedo only int the secondary store, SINGLE módban, ha a következő tár üres, a másikból próbál lőni
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # should have fired from the first store
+TORPEDO,SINGLE  # should have fired from the first store
