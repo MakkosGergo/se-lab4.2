@@ -1,0 +1,3 @@
+# Create a ship that has torpedo only int the secondary store,ALL módban mindkét tárból lő, mindkettőben van
+GT4500,1,0,1,0
+TORPEDO,ALL  # should have fired from the first store
